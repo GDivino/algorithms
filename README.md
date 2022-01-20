@@ -15,4 +15,4 @@ Each directory I have a is a new problem that I am trying to solve. I will add a
 My personal solution will be named with **problemname - personal**, while the online solution will be labelled as **problemname - online**. 
 
 ## Problem list
-1. [Top 50 Classic Data Structures Problems](https://medium.com/techie-delight/top-50-classic-data-structures-problems-2a2f68ba924c)
+1. [Top 50 Classic Data Structures Problems](https://medium.com/techie-delight/top-50-classic-data-structures-problems-2a2f68ba924c){:target="\_blank"}
