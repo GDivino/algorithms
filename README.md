@@ -7,7 +7,7 @@ This repository is my attempt at solving data structures and algorithms problems
 
 ## Language
 
-The main laguage I will be using is python because this is what I am most comfortable in using, however I am open to adding more solutions with different languages if time allows it.
+The main laguage I will be using is python because this is what I am most comfortable in using. However I am open to adding more solutions with different languages if time allows it.
 
 
 ## Structure
@@ -16,5 +16,5 @@ Each directory I have a is a new problem that I am trying to solve. I will add a
 
 My personal solution will be named with **problemname - personal**, while the online solution will be labelled as **problemname - online**. 
 
-## Problem list
+## Problem Sources
 1. [Top 50 Classic Data Structures Problems](https://medium.com/techie-delight/top-50-classic-data-structures-problems-2a2f68ba924c)
