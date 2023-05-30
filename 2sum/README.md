@@ -2,7 +2,7 @@
 
 ## Problem
 
-Given an unsorted integer array, find a pair with the given sum in it.
+Given an unsorted integer array, find a pair with the given sum, and return the indices of the two integers.
 
 
 ## Personal Solution
