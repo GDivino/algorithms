@@ -1,13 +1,14 @@
 # 2sum
 
-## Problem Statement
+## Problem
 
 Given an unsorted integer array, find a pair with the given sum in it.
 
 
 ## Personal Solution
 
-[Notion Page](https://gdivino.notion.site/2-Sum-be7efcf97f894294befb2e4aadfb24bc)
+- [Notion Page](https://gdivino.notion.site/2-Sum-be7efcf97f894294befb2e4aadfb24bc)
+- Use a for loop to go through array and use a hashmap to search for the next number
 
 
 ## Right Answer
