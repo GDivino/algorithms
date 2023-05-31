@@ -9,6 +9,8 @@ This repository is my attempt at solving data structures and algorithms problems
 
 The main laguage I will be using is python because this is what I am most comfortable in using. However I am open to adding more solutions with different languages if time allows it.
 
+*Edit: I will be adding golang into the mix. I just learned it, and I want to explore the language and use it more often.*
+
 
 ## Structure
 
