@@ -7,8 +7,8 @@ Given an array of positive integers sorted in ascending order, find the Kth miss
 
 ## Personal Solution
 
-- Create a hashmap where array items are the keys, and use the hashmap to check if all of the numbers are in hashmap.
-
+- Create a counter that goes through each number one by one, and adds a count if the number is not on the list
+- Create a hashmap where array items are the keys, and use the hashmap to check if the numbers in the array are in hashmap.
 
 ## Source
 
